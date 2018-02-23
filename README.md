@@ -11,3 +11,5 @@ https://www.concretepage.com/
 Move files Example
 https://stackoverflow.com/questions/4645242/how-to-move-file-from-one-location-to-another-location-in-java
 http://www.baeldung.com/java-how-to-rename-or-move-a-file
+
+https://en.wikipedia.org/wiki/Block_Elements#Character_table
