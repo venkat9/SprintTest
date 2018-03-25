@@ -83,3 +83,7 @@ https://unix.stackexchange.com/questions/402728/how-to-move-files-specified-in-a
 
 Function declarations
 https://stackoverflow.com/questions/6212219/passing-parameters-to-a-bash-function
+
+
+
+https://stackoverflow.com/questions/309424/read-convert-an-inputstream-to-a-string
